@@ -10,6 +10,9 @@ __pycache__/
 .venv/
 .git/
 
+# Files
+.env
+
 # Distribution / packaging
 .Python
 build/

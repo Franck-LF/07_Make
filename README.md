@@ -165,7 +165,7 @@ On vérifie la connexion :
 import requests
 
 headers = {
-  "X-API-Key": "ak_9ygvuvztvo0h7mqutzrh8uyu1zylsx0ziauv46o20xu1yft"
+  "X-API-Key": "ak_******"
 }
 
 response = requests.request(
